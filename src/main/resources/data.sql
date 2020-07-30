@@ -1,0 +1,3 @@
+Insert into capital  (capital_country_code , capital_zipcode, capital_Name , capital_language ,capital_population  ,port) values ('1001', '110001', 'Delhi', 'Hindi', 19000000, 0);
+insert into capital (capital_country_code , capital_zipcode, capital_Name , capital_language ,capital_population  ,port) values('1002', '98001', 'Washington', 'English',7500000, 0);
+insert into capital (capital_country_code , capital_zipcode, capital_Name , capital_language ,capital_population  ,port) values('1003', '400021', 'Riyadh', 'Arabic', 2700000, 0);
